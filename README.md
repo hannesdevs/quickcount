@@ -2,7 +2,7 @@
 
 QuickCount is a simple and easy-to-use word and character counting tool that instantly updates as you type or paste text. It provides real-time information about the number of words, characters, and the estimated reading time based on an average reading speed of 183 words per minute.
 
-![QuickCount Screenshot](screenshot.png)
+![QuickCount Screenshot](quickcount.png)
 
 ## Features 🌟
 
